@@ -1,3 +1,3 @@
 # Gene_Type_Convert_ENSEMBL_to_ENTREZ
 
-将Ensembl Gene ID转换成HGNC Gene Symbol
+基因ID格式的转化: 从Ensembl转换成Symbol、Entrez
